@@ -30,5 +30,5 @@
 + adding or pushing all the changes earlier made in your local repository to your remote repository
 ### git status
 + confirming changes not added
-+ by john
++ paid intern 
 
